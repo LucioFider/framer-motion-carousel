@@ -1,9 +1,9 @@
-import Carousel from "./components/Carousel";
+import FormComponent from "./components/webDevSimplified/FormComponent";
 
 function App() {
   return (
-    <div className="bg-gray-900 min-h-screen">
-      <Carousel />
+    <div className="bg-white min-h-screen">
+      <FormComponent />
     </div>
   );
 }
